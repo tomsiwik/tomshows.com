@@ -22,26 +22,39 @@ Episodes are devided into seasons (just like a TV show). Each season follows a t
 to give the viewer an exciting experience through the past of computer science. It's
 an experiment as well, I've yet to find something similar in any educational video.
 
-### Season 1 - 2018 - The 80's - 90's / ascii attacks with the first line of code
+The format and timeline are unclear; season endings and beginning as well. I will be
+aiming for weakly episode. That ammounts to approx. 52 weaks a year. Round 2 weeks of
+holidays and you have some juicy 50 episodes per season. Sheesh... that's much.
+
+### Season 0 - Introducing myself 
+
+- [ ] [S00E00 - Hello World - Introducing myself](episodes/s01e00/README.md)
+
+### Season 1 - The 80's - 90's / ascii attacks with the first line of code
 
 The 80's. VHS, Atari, Unix, Windows 1.0 and Pixelart at it's finest. The same time computers 
-and programming became popular.
+and programming became popular. It became a new era with a lot of experimentation and launches
+of new concept. This season will focus on the introduction in the programming world
 
-- [ ] S01E00 - Hello World - Introduction
-- [ ] S01E01 - Editors - Where would you write your first line of code?
-- [ ] S01E02 - Markup Language - The shopping list language for hackers
-- [ ] S01E03 - Shell - You are in the matrix now... plain gibberish
-- [ ] S01E04 - Read-eval-print loop - Programming shell... the rabbit finds it's way
-- [ ] S01E05 - Package Managers - Npm, apt, brew... the cool way to install things
-- [ ] S01E06 - Basics of HTML
-- [ ] S01E07 - Basics of CSS
-- [ ] S01E08 - Basics of JS
+- [ ] [S01E01 - Editors - Where would you write your first line of code?](episodes/s01e01/README.md)
+- [ ] [S01E02 - Markup Languages - Hackers' shopping list](episodes/s01e02/README.md)
+- [ ] [S01E03 - Shells - Welcome to the matrix, in plain gibberish](episodes/s01e03/README.md)
+- [ ] [S01E04 - Read Eval Print Loop - The white rabbit uses programming shells](episodes/s01e04/README.md)
+- [ ] [S01E05 - Package Managers - The cool way to install things (brew, apt, npm)](episodes/s01e05/README.md)
+- [ ] [S01E06 - Browsers - Nifty tricks against cyber crimes](episodes/s01e06/README.md)
+- [ ] [S01E07 - Regex - There's nothing regular with these expressions](episodes/s01e07/README.md)
+- [ ] [S01E08 - CSV - The Old fashioned spreadsheets](episodes/s01e08/README.md)
+- [ ] [S01E09 - Binary - 0001 0011 0011 0111](episodes/s01e09/README.md)
+- [ ] [S01E10 - RGB - Pixels aren't white](episodes/s01e10/README.md)
 
-### Season 2 - 20xx - The 90's - 2000 / norton commander likes gnu'tella and commandlines
+### Season 2 - The 90's - 2000 / norton commander likes gnu'tella and commandlines
 
-- [ ] S02E01 - Git
-- [ ] S02E02 - Docker
+- [ ] [S02E01 - Basics of HTML](episodes/s02e01/README.md)
+- [ ] [S02E02 - Basics of CSS](episodes/s02e02/README.md)
+- [ ] [S03E03 - Basics of JS](episodes/s02e03/README.md)
+- [ ] [S02E04 - Git](episodes/s02e04/README.md)
+- [ ] [S02E05 - Docker](episodes/s02e05/README.md)
+ 
+### Season 3 - Millenium falcon / programming basics
 
-### Season 3 - 20xx - Millenium falcon / programming basics
-
-### Season 4 - 20xx - Bladerunner advanced programming
+### Season 4 - Bladerunner advanced programming
