@@ -8,23 +8,28 @@ format, my public speaking and the episodes itself. I've never done ANY videos a
 before. This is the opposite of my own comfort zone and a learning experience I'm willing
 to take. I'm 100% sure I'll make a fool of myself but in return grow some pair.
 
-While I'm learning and embarrassing myself, i might aswell show you some nifty things in 
+While I'm learning and embarrassing myself, I might aswell show you some nifty things in 
 the programming world. And exactly this will keep me afloat. I believe everybody can and
 should learn at least some coding. You wouldn't believe how exciting and surpisingly 
-simple that actually is. My goal: show you the cool and joyful parts of programming. If 
-someone would ask me if I would trade my coding/webdesign knowledge with something different
-I probably wouldn't. My job is to make you feel the same way. Hell... i love it and so 
-should you.
+simple that actually is. My goal: show you the cool and joyful parts of programming / 
+hacking. If someone would ask me if I would trade my coding/webdesign knowledge with 
+something different, I probably wouldn't. My job is to make you feel the same way. 
+Hell... I love coding and so should you.
 
 ## Episode Scripts
-
+ 
 Episodes are devided into seasons (just like a TV show). Each season follows a theme
 to give the viewer an exciting experience through the past of computer science. It's
 an experiment as well, I've yet to find something similar in any educational video.
 
 The format and timeline are unclear; season endings and beginning as well. I will be
-aiming for weakly episode. That ammounts to approx. 52 weaks a year. Round 2 weeks of
+aiming for weakly episodes. That ammounts to approx. 52 weaks a year. Round 2 weeks of
 holidays and you have some juicy 50 episodes per season. Sheesh... that's much.
+
+To fill the huge demand I'll need to include some Q&A episodes and suggestions for
+upcoming episodes. This is where my [twitter](https://twitter.com/tom_siwik) comes in 
+handy. Every end of the month episode for Q&A and 3rd week of the month user 
+suggestions? Sounds about right doesn't it?
 
 ### Season 0 - Introducing myself 
 
@@ -38,6 +43,8 @@ of new concept. This season will focus on the introduction in the programming wo
 
 - [ ] [S01E01 - Editors - Where would you write your first line of code?](episodes/s01e01/README.md)
 - [ ] [S01E02 - Markup Languages - Hackers' shopping list](episodes/s01e02/README.md)
+- [ ] [S01E03 - **TBD** at Twitter]()
+- [ ] [S01E04 - Q&A Fun - *Monthname*]()
 - [ ] [S01E03 - Shells - Welcome to the matrix, in plain gibberish](episodes/s01e03/README.md)
 - [ ] [S01E04 - Read Eval Print Loop - The white rabbit uses programming shells](episodes/s01e04/README.md)
 - [ ] [S01E05 - Package Managers - The cool way to install things (brew, apt, npm)](episodes/s01e05/README.md)
