@@ -1,32 +1,27 @@
-# S01E00 - Hello World
+Title: Hello World
+Credit: written by
+Author: Tom Siwik
+Copyright: (c) 2018 Tom Siwik
 
-## Why?
+This is an introductory story about the host of the show.
 
-This episode's goal is to say hello to the youtube community in a creative, funny
-and catching way. A humble start leads the way for future episodes to come.
+# FADE IN
 
-## What?
+Scene:
+> 
+> 
+> 
 
-Introducing three characters:
+#### TOM (V.O.)
 
-- A computer: symbolizes programming, coding and computer science in general. Or the
-  villain that needs to be contained/controlled.
-- A narrator: the question-asker that dramatizes and encourages the audience to think
-  about the story and challenge the problems in the episodes.
-- A hero: the friendly hacker, that knows programming and is willing to share his insights
-  so that the audience can benefit from it.
+You are probably asking yourself, why am I pretending to read a coding book and look smart?
+Well, one has to start somewhere. The first impression counts, right?
 
-With people knowing some programming there will be a happy ending.
+Hello. My name is Tom and I'm a programmer.
 
-## How?
+#### TOM (V.O.)(CONT'D)
 
-Introduce the computer: powerful and dangerous machine that can destroy humanity but is
-actually nice (anti-hero).
-Introduce the programmer: eager to learn, willing to show but sometimes clumsy or 
-confused (hero).
-Introduce the problem: coding/computers are hard to master to ~~earn money~~ have a great
-adventure.
+I'm the kind of guy that googles "How to properly introduce yourself", read through a pile
+of awkwardly sounding articles and deciding to do it better or watch a TED-Talk instead.
 
-# Script
-
-## Episode intro: Introducing myself.
+Same happens when I'm coding. TBD
