@@ -25,3 +25,4 @@ I'm the kind of guy that googles "How to properly introduce yourself", read thro
 of awkwardly sounding articles and deciding to do it better or watch a TED-Talk instead.
 
 Same happens when I'm coding. TBD
+
