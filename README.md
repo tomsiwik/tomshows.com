@@ -20,40 +20,77 @@ To fill the huge demand (only if) I'll need to include some Q&A episodes and sug
  
 - [ ] [S00E00 - Hello World - Introducing myself](episodes/s01e00/README.md)
 
-### Season 1 - The 80's - 90's / ascii attacks with the first line of code
+### Season 1 - Grandma is coding now
 
-The 80's. VHS, Atari, Unix, Windows 1.0 and Pixelart at it's finest. The same time computers and programming became popular. It became a new era with a lot of experimentation and launches of new concepts. This season will focus on the introduction in the programming world.
+Grandma pulls out her typewrite. Puts cable into the computer. Opens a shell, telnets into an ascii-encoded google. Types:
+How to code.
 
 - [ ] [S01E01 - Editors](episodes/s01e01/README.md)
 - [ ] [S01E02 - Markup Languages](episodes/s01e02/README.md)
 - [ ] [S01E03 - Shells](episodes/s01e03/README.md)
 - [ ] [S01E04 - Read Eval Print Loop](episodes/s01e04/README.md)
 - [ ] [S01E05 - Package Managers](episodes/s01e05/README.md)
-- [ ] [S01E06 - Browsers](episodes/s01e06/README.md)
+- [ ] [S01E06 - CSV](episodes/s01e06/README.md)
 - [ ] [S01E07 - Regex](episodes/s01e07/README.md)
-- [ ] [S01E08 - CSV](episodes/s01e08/README.md)
-- [ ] [S01E09 - Binary](episodes/s01e09/README.md)
-- [ ] [S01E10 - RGB](episodes/s01e10/README.md)
-- [ ] [S01E11 - TL;DR Javascript - Variables](episodes/s01e11/README.md)
-- [ ] [S01E12 - TL;DR Javascript - Lists](episodes/s01e12/README.md)
-- [ ] [S01E13 - TL;DR Javascript - Objects](episodes/s01e13/README.md)
-- [ ] [S01E14 - TL;DR Javascript - Loops](episodes/s01e14/README.md)
-- [ ] [S01E15 - TL;DR Javascript - Functions](episodes/s01e15/README.md)
-- [ ] [S01E16 - TL;DR Javascript - Functors](episodes/s01e16/README.md)
-- [ ] [S01E17 - TL;DR Javascript - Numbers](episodes/s01e17/README.md)
-- [ ] [S01E18 - TL;DR Javascript - Strings](episodes/s01e18/README.md)
-- [ ] [S01E19 - TL;DR Javascript - Modules](episodes/s01e19/README.md)
-- [ ] [S01E20 - TL;DR Javascript - ES6](episodes/s01e20/README.md)
- 
- 
-### Season 2 - The 90's - 2000 / norton commander likes gnu'tella and commandlines
+- [ ] [S01E08 - Binary](episodes/s01e08/README.md)
+- [ ] [S01E09 - RGB](episodes/s01e09/README.md)
+- [ ] [S01E10 - Browsers](episodes/s01e10/README.md)
 
-- [ ] [S02E01 - Basics of HTML](episodes/s02e01/README.md)
-- [ ] [S02E02 - Basics of CSS](episodes/s02e02/README.md)
-- [ ] [S03E03 - Basics of JS](episodes/s02e03/README.md)
-- [ ] [S02E04 - Git](episodes/s02e04/README.md)
-- [ ] [S02E05 - Docker](episodes/s02e05/README.md)
- 
-### Season 3 - Millenium falcon / programming basics
+### Season 2 - Lazy man's website tutorial
 
-### Season 4 - Bladerunner advanced programming
+Lazy guy in shorts turns on Netflix. Browses through tv shows, switches to movies and opens a new category - tutorials.
+In there a list of all tutorials categorized in each episode.
+
+- [ ] [S02E01 - HTML Basics](episodes/s02e01/README.md)
+- [ ] [S02E02 - HTML version 5](episodes/s02e02/README.md)
+- [ ] [S02E03 - CSS Basics](episodes/s02e03/README.md)
+- [ ] [S02E04 - CSS version 3](episodes/s02e04/README.md)
+- [ ] [S02E05 - Photoshop to HTML](episodes/s02e05/README.md)
+- [ ] [S02E06 - Figma to HTML](episodes/s02e06/README.md)
+- [ ] [S02E07 - Tailwind CSS](episodes/s02e07/README.md)
+- [ ] [S02E08 - Bootstrap CSS](episodes/s02e08/README.md)
+- [ ] [S02E09 - SCSS / LESS](episodes/s02e09/README.md)
+- [ ] [S02E10 - Advanced Topics - QnA](episodes/s02e10/README.md)
+
+### Season 3 - TL;DR show me Javascript
+
+Guy opens a book. Instantly falls asleep. Guy opens an online course - instantly falling asleep. 
+Guy visits a lecture... instantly falls asleep. He opens youtube - tom shows - tl;dr episode:
+You see closeup of his wide open eyes with a speech bubble: yay, winning :3 !
+
+- [ ] [S03E01 - TL;DR Javascript - Variables](episodes/s03e01/README.md)
+- [ ] [S03E02 - TL;DR Javascript - Lists](episodes/s03e02/README.md)
+- [ ] [S03E03 - TL;DR Javascript - Objects](episodes/s03e03/README.md)
+- [ ] [S03E04 - TL;DR Javascript - Loops](episodes/s03e04/README.md)
+- [ ] [S03E05 - TL;DR Javascript - Functions](episodes/s03e05/README.md)
+- [ ] [S03E06 - TL;DR Javascript - Functors](episodes/s03e06/README.md)
+- [ ] [S03E07 - TL;DR Javascript - Numbers](episodes/s03e07/README.md)
+- [ ] [S03E08 - TL;DR Javascript - Strings](episodes/s03e08/README.md)
+- [ ] [S03E09 - TL;DR Javascript - Modules](episodes/s03e09/README.md)
+- [ ] [S03E10 - TL;DR Javascript - ES6](episodes/s03e10/README.md)
+ 
+### Season 4 - Put your glasses on Javascript
+
+Guy opens CD box and reads instructions:
+Angular mixed with React can cause severe brain damage. Vue with caution. Don't mix with Java.
+Guy put's sunglasses over his glasses.
+
+- [ ] [S04E01 - Javascript Classes](episodes/s04e01/README.md)
+- [ ] [S04E02 - Javascript React](episodes/s04e02/README.md)
+- [ ] [S04E03 - Javascript Vue](episodes/s04e03/README.md)
+- [ ] [S04E04 - Javascript Angular](episodes/s04e04/README.md)
+
+### Season 5 - DevOps in a nutshell
+
+Guy visits huge server farm. Instructor tells him what the farm can do and how many clients they 
+serve. Instructor asks how much space does the guy need for his server farm. Guy points at a small desk:
+That's all. He takes out his raspberry pi and plugs it into the network. Done.
+
+- [ ] [S05E01 - Ubuntu / Alpine Server Crashcourse](episodes/s05e01/README.md)
+- [ ] [S05E02 - Ansible / Automation](episode/s05e02/README.md)
+- [ ] [S05E03 - Docker](episodes/s05e03/README.md)
+- [ ] [S05E04 - Docker Compose](episodes/s05e04/README.md)
+- [ ] [S05E05 - Docker Swarm](episodes/s05e05/README.md)
+- [ ] [S05E06 - Kubernetes](episodes/s05e06/README.md)
+ 
+### Season 6 - TBD 
