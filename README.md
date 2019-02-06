@@ -9,7 +9,7 @@ While I'm learning and embarrassing myself, I might aswell show you some nifty t
 My goal for this channel: show you the cool and joyful parts of programming, hacking and the mindset behind it. If someone would ask me if I would trade my coding/webdesign knowledge with something different, I probably wouldn't. My job is to make you feel the same way. Hell... I love coding and so should you. Let me at least try to convince you just a little.
 
 ## Episode Scripts
-  
+
 Episodes are devided into seasons (just like a TV show). Each season follows a theme to give the viewer an exciting experience through the past of computer science. It's an experiment as well, I've yet to find something similar in any educational video.
 
 The format and timeline are unclear; season endings and beginning as well. I will be aiming for weakly episodes. That ammounts to approx. 52 weaks a year. Round 2 weeks of holidays and you have some juicy 50 episodes per season. Sheesh... that's much.
@@ -18,12 +18,12 @@ To fill the huge demand (only if) I'll need to include some Q&A episodes and sug
 
 ### Season 0 - Introducing myself 
  
-- [ ] [S00E00 - Hello World - Introducing myself](episodes/s01e00/README.md)
+- [ ] [S00E00 - Hello World - v1](episodes/s01e00/README.md)
 
 ### Season 1 - Grandma is coding now
 
-Grandma pulls out her typewrite. Puts cable into the computer. Opens a shell, telnets into an ascii-encoded google. Types:
-How to code.
+B-Roll idea: Grandma pulls out her typewrite. Puts cable into the computer. Opens a shell, telnets into an ascii-encoded google. Types:
+How to code. Welcome to the world of coding.
 
 - [ ] [S01E01 - Editors](episodes/s01e01/README.md)
 - [ ] [S01E02 - Markup Languages](episodes/s01e02/README.md)
@@ -35,11 +35,12 @@ How to code.
 - [ ] [S01E08 - Binary](episodes/s01e08/README.md)
 - [ ] [S01E09 - RGB](episodes/s01e09/README.md)
 - [ ] [S01E10 - Browsers](episodes/s01e10/README.md)
+- [ ] [S01EXX - Hello World - v2](episodes/s01eXX/README.md)
 
 ### Season 2 - Lazy man's website tutorial
-
-Lazy guy in shorts turns on Netflix. Browses through tv shows, switches to movies and opens a new category - tutorials.
-In there a list of all tutorials categorized in each episode.
+ 
+B-Roll idea: Lazy guy in shorts turns on Netflix. Browses through tv shows, switches to movies and opens a new category - tutorials.
+In there a list of all tutorials divided into episode. Guy smiles and clicks the remote.
 
 - [ ] [S02E01 - HTML Basics](episodes/s02e01/README.md)
 - [ ] [S02E02 - HTML version 5](episodes/s02e02/README.md)
@@ -53,10 +54,10 @@ In there a list of all tutorials categorized in each episode.
 - [ ] [S02E10 - Advanced Topics - QnA](episodes/s02e10/README.md)
 
 ### Season 3 - TL;DR show me Javascript
-
+ 
 Guy opens a book. Instantly falls asleep. Guy opens an online course - instantly falling asleep. 
 Guy visits a lecture... instantly falls asleep. He opens youtube - tom shows - tl;dr episode:
-You see closeup of his wide open eyes with a speech bubble: yay, winning :3 !
+You see closeup of his wide open eyes with a speech bubble: oh yeah :3 !
 
 - [ ] [S03E01 - TL;DR Javascript - Variables](episodes/s03e01/README.md)
 - [ ] [S03E02 - TL;DR Javascript - Lists](episodes/s03e02/README.md)
@@ -71,20 +72,22 @@ You see closeup of his wide open eyes with a speech bubble: yay, winning :3 !
  
 ### Season 4 - Put your glasses on Javascript
 
-Guy opens CD box and reads instructions:
+Guy opens a VHS tape and reads cover showing Logos:
 Angular mixed with React can cause severe brain damage. Vue with caution. Don't mix with Java.
-Guy put's sunglasses over his glasses.
+Guy put's sunglasses over his glasses and smiles.
 
 - [ ] [S04E01 - Javascript Classes](episodes/s04e01/README.md)
 - [ ] [S04E02 - Javascript React](episodes/s04e02/README.md)
 - [ ] [S04E03 - Javascript Vue](episodes/s04e03/README.md)
 - [ ] [S04E04 - Javascript Angular](episodes/s04e04/README.md)
-
+ 
 ### Season 5 - DevOps in a nutshell
 
 Guy visits huge server farm. Instructor tells him what the farm can do and how many clients they 
-serve. Instructor asks how much space does the guy need for his server farm. Guy points at a small desk:
-That's all. He takes out his raspberry pi and plugs it into the network. Done.
+serve. Instructor asks how much space the guy needs for his endevour. Guy points at a small gap:
+That's all. Server farm guy watches closely, sighs, shakes his head and goes away. 
+Guy takes out his raspberry pi zero and plugs it into the network. All clothes change to 80s micheal
+jackson style.
 
 - [ ] [S05E01 - Ubuntu / Alpine Server Crashcourse](episodes/s05e01/README.md)
 - [ ] [S05E02 - Ansible / Automation](episode/s05e02/README.md)
@@ -92,5 +95,5 @@ That's all. He takes out his raspberry pi and plugs it into the network. Done.
 - [ ] [S05E04 - Docker Compose](episodes/s05e04/README.md)
 - [ ] [S05E05 - Docker Swarm](episodes/s05e05/README.md)
 - [ ] [S05E06 - Kubernetes](episodes/s05e06/README.md)
- 
+
 ### Season 6 - TBD 
